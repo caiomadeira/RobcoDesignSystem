@@ -6,7 +6,9 @@
 //
 
 import Foundation
+import SwiftUI
 
+@available(iOS 13.0, *)
 public struct RDS {
     public static func example() {
         print("Teste")
