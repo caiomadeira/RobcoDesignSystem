@@ -8,7 +8,7 @@
 import Foundation
 
 public struct RDS {
-    static func example() {
+    public static func example() {
         print("Teste")
     }
 }
